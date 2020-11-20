@@ -32,4 +32,5 @@ _Data used in the analyses are publicly available and previously published. Clin
 ## Optimal re-screening ages for BE in men and women, general population and GERD-specific
 ## Cancer risk associated with surveillance of BE in men and women
 -Also provides code to reproduce model-predictions for Figures 2-5, Table 1, and Figure S1B
+ 
 -Some scripts are purposed from other Github repositories, as indcated in the file names.
